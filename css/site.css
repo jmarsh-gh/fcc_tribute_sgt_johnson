@@ -1,0 +1,29 @@
+﻿.more {
+  text-align: center;
+}
+
+#testing {
+  margin:5px 5px 0px 5px;
+  padding:5px;
+}
+
+.panel {
+  margin-top:-1px;
+}
+
+/*.carousel img {
+
+    min-width: 100%;
+    max-height: 300px;
+}*/
+
+.bannervid {
+  min-width: 100%;
+  position: relative;
+  
+}
+
+.table {
+    background-color: transparent;
+} 
+
